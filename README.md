@@ -1,7 +1,13 @@
 # MS-Dhoni-s-IPL-Career-Analysis
 
+### Overview:
+This is the  self-practice dashboard project in Tableau aims to provide a hands-on learning experience in data visualization, exploration, and dashboard creation using Tableau software. The project involves leveraging Tableau's powerful features to build an interactive and insightful dashboard that showcases data in a meaningful and comprehensible manner.Creating an entire Tableau project for MS Dhoni's IPL career involves multiple steps, including data collection, data preparation, and visualization creation.
+
 ###  MS Dhoni
 Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian cricketer and one of the most successful captains in the history of Indian cricket. He was born on July 7, 1981, in Ranchi, Bihar (now in Jharkhand), India. Dhoni is a right-handed batsman and wicketkeeper, known for his aggressive captaincy style and calm demeanor on the field, earning him the nickname "Captain Cool."
+
+
+
    #### Tools Used:
    ### Tableau Desktop:
      Primary tool for creating visualizations, dashboards, and interactivity.
@@ -32,6 +38,8 @@ Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian cricketer a
 
    ### Dashboard Outcome
    MS Dhoni has played 250 matches to date in his IPL career and has scored 5082 runs, with an average of 39.09. He has also slammed 24 half-centuries, with his highest IPL score being 84* runs. MS Dhoni has hit 349 fours and 239 sixes in his IPL career.
+   ## Conclusion:
+   The self-practice dashboard project in Tableau provides an opportunity to apply Tableau skills, explore data, and create compelling visualizations. Through this project, one can gain hands-on experience in data storytelling and dashboard development, honing skills essential for effective data analysis and communication in various domains.
 
 
    
