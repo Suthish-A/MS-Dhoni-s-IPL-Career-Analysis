@@ -30,5 +30,8 @@ Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian cricketer a
    ### dashboard overview
    ![image](https://github.com/Suthish-A/MS-Dhoni-s-IPL-Career-Analysis/assets/133667688/aa50a7bf-dca0-43a4-8617-83b8d5657004)
 
+   ### Dashboard Outcome
+   MS Dhoni has played 250 matches to date in his IPL career and has scored 5082 runs, with an average of 39.09. He has also slammed 24 half-centuries, with his highest IPL score being 84* runs. MS Dhoni has hit 349 fours and 239 sixes in his IPL career.
+
 
    
