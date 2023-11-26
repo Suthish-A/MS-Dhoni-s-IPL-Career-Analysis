@@ -2,7 +2,12 @@
 
 ###  MS Dhoni
 Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian cricketer and one of the most successful captains in the history of Indian cricket. He was born on July 7, 1981, in Ranchi, Bihar (now in Jharkhand), India. Dhoni is a right-handed batsman and wicketkeeper, known for his aggressive captaincy style and calm demeanor on the field, earning him the nickname "Captain Cool."
+   #### Tools Used:
+   ### Tableau Desktop:
+     Primary tool for creating visualizations, dashboards, and interactivity.
 
+   ### Microsoft Excel:
+       Possibly used for data preparation, cleaning, or additional analysis before importing data into Tableau
 ###  KPIs:
   --->TotalRuns
   --->Total Matches
@@ -19,6 +24,8 @@ Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian cricketer a
 
    ---> click the dhoni carrier button entire the this page https://www.mykhel.com/cricket/players/ms-dhoni-ipl-p3243/
    --->click the download button dashboard download the pdf format
+
+
 
    ### dashboard overview
    ![image](https://github.com/Suthish-A/MS-Dhoni-s-IPL-Career-Analysis/assets/133667688/aa50a7bf-dca0-43a4-8617-83b8d5657004)
